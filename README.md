@@ -18,9 +18,10 @@ A Streamlit app for analyzing and optimizing prompts used with Open Interpreter.
 ## Quick Start
 
 ```bash
-git clone https://github.com/your-username/open-interpreter-prompt-insights.git
+git clone https://github.com/actual-username-or-org/oi-prompt-insights.git
+cd oi-prompt-insights
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run oi_prompt_insights.py
 ```
 
 ## About
