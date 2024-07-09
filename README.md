@@ -14,6 +14,7 @@ A Streamlit app for collecting, analyzing, and gaining insights on Open Interpre
 - [Why This Tool?](#why-this-tool)
 - [Features](#features)
 - [Usage](#usage)
+- [Contributing](#contributing)
 
 ## Quick Start
 
@@ -61,3 +62,7 @@ After launching the app:
 - View analytics
 - Explore insights
 - Compare prompt variations
+
+## Contributing
+
+We welcome contributions from the community! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
