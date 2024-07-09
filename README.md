@@ -1,4 +1,4 @@
-# Open Interpreter Prompt Insights
+# Open Interpreter Prompt Insights (WIP)
 
 A Streamlit app for collecting, analyzing, and gaining insights on Open Interpreter prompts and their overall efficacy at executing local code.
 
