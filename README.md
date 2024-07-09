@@ -1,6 +1,6 @@
 # Open Interpreter Prompt Insights
 
-A Streamlit app for analyzing and optimizing prompts used with Open Interpreter.
+A Streamlit app for collecting, analyzing, and gaining insights on Open Interpreter prompts and their overall efficacy at executing local code.
 
 ![GitHub license](https://img.shields.io/github/license/your-username/open-interpreter-prompt-insights)
 ![GitHub stars](https://img.shields.io/github/stars/your-username/open-interpreter-prompt-insights)
