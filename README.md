@@ -19,7 +19,6 @@ A Streamlit app for collecting, analyzing, and gaining insights on Open Interpre
 
 ```bash
 git clone https://github.com/actual-username-or-org/oi-prompt-insights.git
-cd oi-prompt-insights
 pip install -r requirements.txt
 streamlit run oi_prompt_insights.py
 ```
