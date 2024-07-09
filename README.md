@@ -1,4 +1,4 @@
-# Open Interpreter Prompt Insights Tool
+# Open Interpreter Prompt Insights
 
 A Streamlit app for analyzing and optimizing prompts used with Open Interpreter.
 
