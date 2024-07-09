@@ -5,7 +5,7 @@ A Streamlit app for analyzing and optimizing prompts used with Open Interpreter.
 ## Table of Contents
 - [Quick Start](#quick-start)
 - [About](#about)
-- [Key Features](#key-features)
+- [Features](#key-features)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
