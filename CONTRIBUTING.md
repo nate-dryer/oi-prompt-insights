@@ -44,6 +44,14 @@ To set up the development environment for the Open Interpreter Prompt Insights T
 5. Install the required dependencies: `pip install -r requirements.txt`
 6. Run the application: `streamlit run oi_prompt_insights.py`
 
+### Running Tests
+
+To run the tests for the Open Interpreter Prompt Insights Tool, follow these steps:
+
+1. Ensure that you have set up the development environment as described above.
+2. Navigate to the project directory: `cd oi-prompt-insights`
+3. Run the tests using the following command: `python -m unittest discover tests`
+
 ### Testing
 
 Please ensure that your changes do not break any existing functionality. If applicable, add tests to cover your changes and run the test suite to verify that all tests pass.
